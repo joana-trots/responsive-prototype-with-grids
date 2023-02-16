@@ -56,7 +56,10 @@ header{
 	padding: 20px;
 	background: #ececec;
 }
-
+ul {
+	list-style: none;
+        list-style-position: inside;
+}
 /* HEADER */
 
 .logo{
@@ -85,7 +88,6 @@ header{
 
 nav li{
 	margin-bottom: 5px;
-	list-style: none;
 }
 
 /* main content (center) */
