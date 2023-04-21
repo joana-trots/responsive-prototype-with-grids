@@ -51,7 +51,6 @@ header{
 	border-radius: 16px;
 	z-index: 1;
 }
-
 .section1,
 .section3 div,
 .item,
@@ -63,9 +62,6 @@ header{
 	background: #ffffff7d;
 	backdrop-filter: blur(9px);
 	border-radius: 16px;
-}
-.left{
-	height: calc(100vh - 204px);
 }
 .logo,
 .info,
